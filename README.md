@@ -2,7 +2,7 @@
 
 ----------------------------------
 
-<center>![alt text](https://github.com/CrashOverride97680/GameJsDigiGameMovement/blob/master/coverGameJs.JPG "LogoGameJs")</center>
+![alt text](https://github.com/CrashOverride97680/GameJsDigiGameMovement/blob/master/coverGameJs.JPG "LogoGameJs")
 
 ----------------------------------
 
